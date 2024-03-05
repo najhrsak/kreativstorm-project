@@ -1,0 +1,2 @@
+frontend: https://github.com/okpakomarvis/java-kreativstorm-training-hospital-management-app/tree/dev
+backend: https://github.com/okpakomarvis/java-kreativstorm-training-hospital-management-app/tree/marvis-dev
